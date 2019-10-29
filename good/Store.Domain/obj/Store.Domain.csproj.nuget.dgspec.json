@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique_domareski\\projetos\\Store\\Store.Domain\\Store.Domain.csproj": {}
+    "C:\\Users\\henrique_domareski\\projetos\\Store\\good\\Store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique_domareski\\projetos\\Store\\Store.Domain\\Store.Domain.csproj": {
+    "C:\\Users\\henrique_domareski\\projetos\\Store\\good\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique_domareski\\projetos\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\henrique_domareski\\projetos\\Store\\good\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Users\\henrique_domareski\\projetos\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectPath": "C:\\Users\\henrique_domareski\\projetos\\Store\\good\\Store.Domain\\Store.Domain.csproj",
         "packagesPath": "C:\\Users\\henrique_domareski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique_domareski\\projetos\\Store\\Store.Domain\\obj\\",
+        "outputPath": "C:\\Users\\henrique_domareski\\projetos\\Store\\good\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [
