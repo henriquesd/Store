@@ -1,0 +1,17 @@
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Tests.deps.json
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Tests.runtimeconfig.json
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Tests.runtimeconfig.dev.json
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Tests.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Tests.pdb
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Domain.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\bin\Debug\netcoreapp2.2\Store.Domain.pdb
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.csprojAssemblyReference.cache
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.csproj.CoreCompileInputs.cache
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.AssemblyInfoInputs.cache
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.AssemblyInfo.cs
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.csproj.CopyComplete
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.dll
+C:\Users\henrique_domareski\projetos\Store\good\Store.Tests\obj\Debug\netcoreapp2.2\Store.Tests.pdb

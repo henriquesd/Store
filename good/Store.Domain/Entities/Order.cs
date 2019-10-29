@@ -56,10 +56,10 @@ namespace Store.Domain.Entities
          public void Pay(decimal amount)
          {
              if (amount == Total())
-                this.Status = EOrderStatus.WaitingPayment;
+                this.Status = EOrderStatus.WaitingDelivery;
          }
          
-         public void cancel()
+         public void Cancel()
          {
              Status = EOrderStatus.Canceled;
          }
